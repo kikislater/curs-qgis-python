@@ -453,4 +453,4 @@ Plantilla para plugins petits: https://github.com/wonder-sk/qgis-minimal-plugin
 
 Plantilla per a plugins més grans: https://github.com/boundlessgeo/qgis-plugin-template
 
-Plugin molt interessant: "QGIS Fist AID",
+Plugin molt interessant: "QGIS First AID",
